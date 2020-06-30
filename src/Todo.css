@@ -49,7 +49,7 @@
 
 .Todo-buttons button {
   border: none;
-  font-size: 1em;
+  font-size: 2em;
   margin: 0.4em;
   background: none;
   -webkit-appearance: none;
@@ -76,7 +76,7 @@
 .Todo-edit-form button {
   padding: 0 1.3rem;
   border: none;
-  background: #ff6666;
+  background: #00b35f;
   color: white;
   text-transform: uppercase;
   font-weight: bold;
@@ -86,10 +86,10 @@
   transition: background 0.2s ease-out;
 }
 .Todo-edit-form button:hover {
-  background: #ff5e5e;
+  background: #00692c;
 }
 .Todo-edit-form input,
 .Todo-edit-form button {
-  font-family: "Quicksand", sans-serif;
+  font-family: 'Pangolin', cursive;
   height: 3rem;
 }

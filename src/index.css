@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+
 * {
   margin: 0;
   padding: 0;
@@ -5,8 +7,10 @@
 }
 html,
 body {
-  background: linear-gradient(90deg, #69b7eb, #b3dbd3, #f4d6db);
   font-size: 1.1rem;
-  font-family: "Quicksand", sans-serif;
+  font-family: 'Pangolin', cursive;
   height: 100%;
+  background: url(https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F9%2F2020%2F02%2Fgrocery-store-shelf-placement-FT-BLOG0220.jpg);
+  background-size: cover;
 }
+
